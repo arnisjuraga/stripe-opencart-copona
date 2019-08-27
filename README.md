@@ -39,14 +39,15 @@ TODO:
 * interactive / better .js card
 
 
+# Opencart/Copona versions supported
 
 ### Copona
 
-* latest master
+* latest `master`
 
 ### Opencart 
 
-* version supported: `2.3.0.2`
+* `2.3.0.2`
 
 
 
