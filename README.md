@@ -15,6 +15,7 @@ This plugin is mainly for developers, so please, contribute!
 https://github.com/rahulverma0008/opencart-stripe-payment-module
 
 * 2.3.0.2 base source 
+* 3D Secure support
 
 ### Debetux/opencart-stripe
 
