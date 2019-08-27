@@ -9,6 +9,9 @@ No VQMOD or OCMOD! vqmod and ocmod is not and will not be supported.
 
 This plugin is mainly for developers, so please, contribute!
 
+TODO: 
+
+* use Stripe-PHP library vrom composer
 
 ### Rahulverma0008/opencart-stripe-payment-module Debetux/opencart-stripe
 
